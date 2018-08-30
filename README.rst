@@ -2,14 +2,13 @@
 utiny
 =====
 
-
 User-friendly database for everyone
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+**utiny** is an user_friendly database for everyone and writen in pure python
 
 
 Note
