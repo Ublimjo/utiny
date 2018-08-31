@@ -5,6 +5,8 @@ Module entry point of console script
 
 from __future__ import division, print_function, absolute_import
 
+from utiny.command.appinteract import AppInteraction
+
 
 def main():
     """
@@ -12,6 +14,8 @@ def main():
     """
 
     greet()
+    session = AppInteraction()
+    session.run()
 
 
 def greet():
