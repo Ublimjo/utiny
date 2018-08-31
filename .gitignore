@@ -112,3 +112,4 @@ venv.bak/
 .doit.db
 
 Pipfile.lock
+pyproject.lock

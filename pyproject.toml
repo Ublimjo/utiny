@@ -8,6 +8,7 @@ license = "mit"
 [tool.poetry.dependencies]
 python = "*"
 tinydb = "^3.11"
+pyscaffold = "^3.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.7"
