@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "utiny"
+version = "0.0"
+description = "User-friendly database for everyone"
+authors = ["Ublim <ublimjo@gmail.com>"]
+license = "mit"
+
+[tool.poetry.dependencies]
+python = "*"
+tinydb = "^3.11"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.7"
+pytest-cov = "^2.5"
+icecream = "^1.3"
