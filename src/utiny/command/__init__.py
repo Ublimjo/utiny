@@ -23,7 +23,7 @@ class Interactive(object):
         result = input(' ' + rawleft)
         return result.split(' ')
 
-    def cmd(self, cmd):
+    def cmd(self, cmd, *args):
         """
         list of cmd
         please follow this rule:
